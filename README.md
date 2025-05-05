@@ -1,0 +1,1 @@
+# ADINA-System-12.7-With-License-Keys-Latest-2025-q4
